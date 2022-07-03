@@ -68,5 +68,10 @@ ETH: 0xF5ea71c5b98A33f9B8Dc9ae64F681488Ec7308E0
 # Warning
 
 * This tool is official and completely free to use. Do not buy if anyone tries to sell by copying script
+
+## Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
   </div>
 
