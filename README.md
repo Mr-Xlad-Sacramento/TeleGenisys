@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://twitter.com/sprabhishek" ><img src="https://img.shields.io/twitter/follow/SprAbhishek.svg?style=social" /> </a>
 <br>
-<b><h3>An Advanced Scraper And Adder Python Script</h3></b>
+<b><h3>An Advanced And Awesome Python Script</h3></b>
 <a href="https://github.com/superabhishek/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/superabhishek/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/superabhishek/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/superabhishek/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/superabhishek/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/superabhishek/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
