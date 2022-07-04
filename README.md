@@ -29,7 +29,7 @@ Telegenisys - Telegram Tools, Packs, Bots, Info, Administration, Scrapers, Adder
 # Update Features
 
 - Fixed bug with scraping. You can now scrape from public groups of any size.
-- Fixed bug with addbyid.py. You can now start adding by IDs again.
+- Fixed bug in multiple adder. You can now start using the bulk adder again.
 # Features Of Telegenisys
 
 * Add Members In Bulk [by username]
@@ -48,6 +48,8 @@ Telegenisys - Telegram Tools, Packs, Bots, Info, Administration, Scrapers, Adder
 # How To Use Telegenisys Script
 
 <b>Suggestion: It is better to add delay above 5 sec And never over use any number.</b>
+
+* First of all download the script from here
 
 * Install Requirements `pip install -r requirements.txt`
 
