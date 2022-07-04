@@ -1,0 +1,22 @@
+STEP 1 - First of all open numbers.csv file in notepad++ and add all your accounts in that file.
+
+STEP 2 - Now Open config.ini file add following variables -
+
+	# FromGroup = the group link from where you want to scrape members.
+	# Togroup = you group link where you want to add members.
+	# ExportNumber = Anyone number from numbers.csv file.
+	# AddFrom = Leave it. Dont edit it.
+	
+	
+STEP 3 - Now run main.py file and all your accounts.
+
+-------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+ For any query or support contact me on
+ 
+	# Twitter - @SprAbhishek
+	
+	# Telegram - @SprAbhishek
+
+-------------------------------------------------------------------------
+-----------------------------------------------------------------------------
