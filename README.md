@@ -13,16 +13,16 @@
 <a href="https://github.com/superabhishek/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/superabhishek/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/superabhishek/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/superabhishek/Telegenisys?color=2b9348"></a>
 <a href="https://github.com/superabhishek/Telegenisys/blob/master/"><img src="https://img.shields.io/github/license/superabhishek/Telegenisys?color=2b9348" alt="License Badge"/></a>
-
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 <br>
 Telegenisys is a most advance and powerful python script for scarpe telegram members from others groups and add them to your group.
+
 <div align="center">
-<img width="689" alt="image" src="https://user-images.githubusercontent.com/51442719/166102361-802486e7-5638-4ccc-96ab-50b85d155940.png">
+<br>
+<img width="689" alt="image" src="https://github.com/SuperAbhishek/TeleGenisys/blob/main/Telegenisys.png">
 </div>
 <div align="left">
 
-# Version 2.0
+# Version 1.0
 
 Telegenisys - Telegram Tools, Packs, Bots, Info, Administration, Scrapers, Adders, and many more..
 
@@ -49,7 +49,7 @@ Telegenisys - Telegram Tools, Packs, Bots, Info, Administration, Scrapers, Adder
 
 <b>Suggestion: It is better to add delay above 5 sec And never over use any number.</b>
 
-* First of all download the script from here
+* First of all download the script <a href="https://github.com/SuperAbhishek/TeleGenisys/archive/refs/heads/main.zip">from here</a>
 
 * Install Requirements `pip install -r requirements.txt`
 
@@ -65,11 +65,17 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # Buy me a coffee
 
-ETH: 0xF5ea71c5b98A33f9B8Dc9ae64F681488Ec7308E0
+* Ethereum [ETH] - 0xB6b6F0D3A073256dBc04fe443F82B8eE93468033
+* Bitcoin [BTC] - bc1q8mtme25hzv7qeayvu3p8hc27pzcpwrk5n453ds
+* Smart Chain [BNB] - 0xB6b6F0D3A073256dBc04fe443F82B8eE93468033
 
 # Warning
 
 * This tool is official and completely free to use. Do not buy if anyone tries to sell by copying script
+ 
+# Hire Me
+  
+If you wanted me to develop your custom script or software then you can also hire me.
 
 ## Contribute
 
