@@ -11,7 +11,7 @@
 <a href="https://github.com/superabhishek/Telegenisys/network/members"><img src="https://img.shields.io/github/forks/superabhishek/Telegenisys" alt="Forks Badge"/></a>
 <a href="https://github.com/superabhishek/Telegenisys/pulls"><img src="https://img.shields.io/github/issues-pr/superabhishek/Telegenisys" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/superabhishek/Telegenisys/issues"><img src="https://img.shields.io/github/issues/superabhishek/Telegenisys" alt="Issues Badge"/></a>
-<a href="https://github.com/superabhishek/Telegenisys/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/superabhishek/Telegenisys?color=2b9348"></a>
+<a href="https://github.com/superabhishek/Telegenisys/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/superabhishek/Telegenisys?color=2b9348"></a>
 <a href="https://github.com/superabhishek/Telegenisys/blob/master/"><img src="https://img.shields.io/github/license/superabhishek/Telegenisys?color=2b9348" alt="License Badge"/></a>
 <br>
 Telegenisys is a most advance and powerful python script for scarpe telegram members from others groups and add them to your group.
