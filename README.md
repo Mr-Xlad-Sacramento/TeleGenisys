@@ -7,11 +7,11 @@
 <a href="https://twitter.com/sprabhishek" ><img src="https://img.shields.io/twitter/follow/SprAbhishek.svg?style=social" /> </a>
 <br>
 <b><h3>An Advanced And Awesome Python Script</h3></b>
-<a href="https://github.com/superabhishek/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/superabhishek/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/superabhishek/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/superabhishek/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/superabhishek/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/superabhishek/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/superabhishek/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/superabhishek/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/superabhishek/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/superabhishek/Telegenisys?color=2b9348"></a>
+<a href="https://github.com/SuperAbhishek/TeleGenisys"><img src="https://img.shields.io/github/stars/superabhishek/Telegenisys" alt="Stars Badge"/></a>
+<a href="https://github.com/superabhishek/Telegenisys/network/members"><img src="https://img.shields.io/github/forks/superabhishek/Telegenisys" alt="Forks Badge"/></a>
+<a href="https://github.com/superabhishek/Telegenisys/pulls"><img src="https://img.shields.io/github/issues-pr/superabhishek/Telegenisys" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/superabhishek/Telegenisys/issues"><img src="https://img.shields.io/github/issues/superabhishek/Telegenisys" alt="Issues Badge"/></a>
+<a href="https://github.com/superabhishek/Telegenisys/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/superabhishek/Telegenisys?color=2b9348"></a>
 <a href="https://github.com/superabhishek/Telegenisys/blob/master/"><img src="https://img.shields.io/github/license/superabhishek/Telegenisys?color=2b9348" alt="License Badge"/></a>
 <br>
 Telegenisys is a most advance and powerful python script for scarpe telegram members from others groups and add them to your group.
